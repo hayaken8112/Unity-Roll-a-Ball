@@ -1,0 +1,17 @@
+/Users/ken/Unity/Roll a Ball/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/ken/Unity/Roll a Ball/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/ken/Unity/Roll a Ball/obj/Debug/Assembly-CSharp.dll
+/Users/ken/Unity/Roll a Ball/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/ken/Unity/Roll a Ball/Temp/bin/Debug/UnityEngine.dll
+/Users/ken/Unity/Roll a Ball/Temp/bin/Debug/UnityEditor.dll
+/Users/ken/Unity/Roll a Ball/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/ken/Unity/Roll a Ball/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/ken/Unity/Roll a Ball/Temp/bin/Debug/Mono.Cecil.dll
+/Users/ken/Unity/Roll a Ball/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/ken/Unity/Roll a Ball/Temp/bin/Debug/Unity.DataContract.dll
+/Users/ken/Unity/Roll a Ball/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/ken/Unity/Roll a Ball/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/ken/Unity/Roll a Ball/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/ken/Unity/Roll a Ball/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/ken/Unity/Roll a Ball/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/ken/Unity/Roll a Ball/Temp/bin/Debug/Mono.Cecil.Mdb.dll
